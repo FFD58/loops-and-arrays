@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bcbab47-9066-4f53-945b-e17def7f701a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7bcbab47-9066-4f53-945b-e17def7f701a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +15,13 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2bll7CbLyrDaBKrCn6ZAPHcXyR0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -26,9 +34,44 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "V:/JavaProjects/LoopsAndArrays/src/main/java/ru/fafurin/lesson5"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="V:\JavaProjects\LoopsAndArrays\src\main\java\ru\fafurin\lesson5" />
+      <recent name="V:\JavaProjects\LoopsAndArrays\src\main\java\ru\fafurin\lesson4" />
+      <recent name="V:\JavaProjects\LoopsAndArrays\src\main\java\ru\fafurin\lesson3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="V:\JavaProjects\LoopsAndArrays" />
+      <recent name="V:\JavaProjects\LoopsAndArrays\src\main\java\ru\fafurin\lesson2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.fafurin.lesson2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Lesson5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.fafurin.lesson5.Lesson5" />
+      <module name="LoopsAndArrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.fafurin.lesson5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lesson5" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
