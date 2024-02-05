@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bcbab47-9066-4f53-945b-e17def7f701a" name="Changes" comment="" />
+    <list default="true" id="7bcbab47-9066-4f53-945b-e17def7f701a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +51,7 @@
       <recent name="V:\JavaProjects\LoopsAndArrays\src\main\java\ru\fafurin\lesson2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.fafurin.lesson6" />
       <recent name="ru.fafurin.lesson2" />
     </key>
   </component>
